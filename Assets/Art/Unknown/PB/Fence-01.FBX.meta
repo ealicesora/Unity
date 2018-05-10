@@ -1,0 +1,773 @@
+fileFormatVersion: 2
+guid: 247bfb2ec846d584394b6ede55afb812
+timeCreated: 1510259458
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box001 1
+    100004: Box001 2
+    100006: Box002
+    100008: Box002 1
+    100010: Box002 2
+    100012: Box003
+    100014: Box004
+    100016: Box004 1
+    100018: Box005
+    100020: Box005 1
+    100022: Box007
+    100024: Box009
+    100026: Box010
+    100028: Box011
+    100030: Box012
+    100032: Box014
+    100034: Box015
+    100036: Box015 1
+    100038: Box016
+    100040: Box017
+    100042: Box020
+    100044: Box020 1
+    100046: Box021
+    100048: Box022
+    100050: Box023
+    100052: Box024
+    100054: Box025
+    100056: Box026
+    100058: Box027
+    100060: Box028
+    100062: Cylinder001
+    100064: Cylinder001 1
+    100066: Cylinder001 2
+    100068: Cylinder001 3
+    100070: Cylinder002
+    100072: Cylinder002 1
+    100074: Cylinder003
+    100076: Cylinder003 1
+    100078: Cylinder004
+    100080: Cylinder005
+    100082: Cylinder006
+    100084: Cylinder006 1
+    100086: Cylinder012
+    100088: Cylinder013
+    100090: Cylinder017
+    100092: Cylinder018
+    100094: Cylinder018 1
+    100096: Cylinder022
+    100098: Cylinder023
+    100100: Cylinder024
+    100102: Cylinder025
+    100104: Cylinder026
+    100106: Cylinder027
+    100108: Cylinder029
+    100110: Cylinder030
+    100112: Cylinder031
+    100114: Cylinder032
+    100116: Cylinder033
+    100118: Cylinder036
+    100120: Cylinder041
+    100122: Cylinder042
+    100124: Cylinder043
+    100126: Cylinder044
+    100128: //RootNode
+    100130: Line002
+    100132: Object001
+    100134: Object001 1
+    100136: Object001 2
+    100138: Object002
+    100140: Object002 1
+    100142: Object003
+    100144: Object003 1
+    100146: Object003 2
+    100148: Object003 3
+    100150: Object004
+    100152: Object004 1
+    100154: Object005
+    100156: Object005 1
+    100158: Object006
+    100160: Object007
+    100162: Object008
+    100164: Object009
+    100166: Object010
+    100168: Object011
+    100170: Object012
+    100172: Object013
+    100174: Object014
+    100176: Object015
+    100178: Object016
+    100180: Object017
+    100182: Object018
+    100184: Object018 1
+    100186: Object019
+    100188: Object020
+    100190: Object020 1
+    100192: Object023
+    100194: Object025
+    100196: Object027
+    100198: Object029
+    100200: Object030
+    100202: Object039
+    100204: Object043
+    100206: Object044
+    100208: Object045
+    100210: Object046
+    100212: Object047
+    100214: Object047 1
+    100216: Object048
+    100218: Object051
+    100220: Object056
+    100222: Object060
+    100224: Object061
+    100226: Object062
+    100228: Object063
+    100230: Object064
+    100232: Object065
+    100234: Object066
+    100236: Object067
+    100238: Object068
+    100240: Object073
+    100242: Object073 1
+    100244: Object074
+    100246: Object077
+    100248: Object078
+    100250: Object079
+    100252: Object080
+    100254: Object081
+    100256: Object084
+    100258: Object085
+    100260: Object092
+    100262: Object097
+    100264: Object098
+    100266: Object099
+    100268: Object100
+    100270: Object101
+    100272: Object102
+    100274: Object103
+    100276: Object104
+    100278: Object105
+    100280: Object106
+    100282: Object107
+    100284: Object108
+    100286: Object109
+    100288: Object110
+    100290: Object111
+    100292: Object112
+    400000: Box001
+    400002: Box001 1
+    400004: Box001 2
+    400006: Box002
+    400008: Box002 1
+    400010: Box002 2
+    400012: Box003
+    400014: Box004
+    400016: Box004 1
+    400018: Box005
+    400020: Box005 1
+    400022: Box007
+    400024: Box009
+    400026: Box010
+    400028: Box011
+    400030: Box012
+    400032: Box014
+    400034: Box015
+    400036: Box015 1
+    400038: Box016
+    400040: Box017
+    400042: Box020
+    400044: Box020 1
+    400046: Box021
+    400048: Box022
+    400050: Box023
+    400052: Box024
+    400054: Box025
+    400056: Box026
+    400058: Box027
+    400060: Box028
+    400062: Cylinder001
+    400064: Cylinder001 1
+    400066: Cylinder001 2
+    400068: Cylinder001 3
+    400070: Cylinder002
+    400072: Cylinder002 1
+    400074: Cylinder003
+    400076: Cylinder003 1
+    400078: Cylinder004
+    400080: Cylinder005
+    400082: Cylinder006
+    400084: Cylinder006 1
+    400086: Cylinder012
+    400088: Cylinder013
+    400090: Cylinder017
+    400092: Cylinder018
+    400094: Cylinder018 1
+    400096: Cylinder022
+    400098: Cylinder023
+    400100: Cylinder024
+    400102: Cylinder025
+    400104: Cylinder026
+    400106: Cylinder027
+    400108: Cylinder029
+    400110: Cylinder030
+    400112: Cylinder031
+    400114: Cylinder032
+    400116: Cylinder033
+    400118: Cylinder036
+    400120: Cylinder041
+    400122: Cylinder042
+    400124: Cylinder043
+    400126: Cylinder044
+    400128: //RootNode
+    400130: Line002
+    400132: Object001
+    400134: Object001 1
+    400136: Object001 2
+    400138: Object002
+    400140: Object002 1
+    400142: Object003
+    400144: Object003 1
+    400146: Object003 2
+    400148: Object003 3
+    400150: Object004
+    400152: Object004 1
+    400154: Object005
+    400156: Object005 1
+    400158: Object006
+    400160: Object007
+    400162: Object008
+    400164: Object009
+    400166: Object010
+    400168: Object011
+    400170: Object012
+    400172: Object013
+    400174: Object014
+    400176: Object015
+    400178: Object016
+    400180: Object017
+    400182: Object018
+    400184: Object018 1
+    400186: Object019
+    400188: Object020
+    400190: Object020 1
+    400192: Object023
+    400194: Object025
+    400196: Object027
+    400198: Object029
+    400200: Object030
+    400202: Object039
+    400204: Object043
+    400206: Object044
+    400208: Object045
+    400210: Object046
+    400212: Object047
+    400214: Object047 1
+    400216: Object048
+    400218: Object051
+    400220: Object056
+    400222: Object060
+    400224: Object061
+    400226: Object062
+    400228: Object063
+    400230: Object064
+    400232: Object065
+    400234: Object066
+    400236: Object067
+    400238: Object068
+    400240: Object073
+    400242: Object073 1
+    400244: Object074
+    400246: Object077
+    400248: Object078
+    400250: Object079
+    400252: Object080
+    400254: Object081
+    400256: Object084
+    400258: Object085
+    400260: Object092
+    400262: Object097
+    400264: Object098
+    400266: Object099
+    400268: Object100
+    400270: Object101
+    400272: Object102
+    400274: Object103
+    400276: Object104
+    400278: Object105
+    400280: Object106
+    400282: Object107
+    400284: Object108
+    400286: Object109
+    400288: Object110
+    400290: Object111
+    400292: Object112
+    2300000: Box001
+    2300002: Box001 1
+    2300004: Box001 2
+    2300006: Box002 2
+    2300008: Box003
+    2300010: Box004
+    2300012: Box004 1
+    2300014: Box005
+    2300016: Box005 1
+    2300018: Box007
+    2300020: Box009
+    2300022: Box010
+    2300024: Box011
+    2300026: Box012
+    2300028: Box014
+    2300030: Box015
+    2300032: Box015 1
+    2300034: Box016
+    2300036: Box017
+    2300038: Box020
+    2300040: Box020 1
+    2300042: Box021
+    2300044: Box022
+    2300046: Box023
+    2300048: Box024
+    2300050: Box025
+    2300052: Box026
+    2300054: Box027
+    2300056: Box028
+    2300058: Cylinder001
+    2300060: Cylinder001 1
+    2300062: Cylinder001 2
+    2300064: Cylinder001 3
+    2300066: Cylinder002
+    2300068: Cylinder002 1
+    2300070: Cylinder003
+    2300072: Cylinder003 1
+    2300074: Cylinder004
+    2300076: Cylinder005
+    2300078: Cylinder012
+    2300080: Cylinder013
+    2300082: Cylinder017
+    2300084: Cylinder022
+    2300086: Cylinder023
+    2300088: Cylinder024
+    2300090: Cylinder025
+    2300092: Cylinder026
+    2300094: Cylinder027
+    2300096: Cylinder029
+    2300098: Cylinder030
+    2300100: Cylinder031
+    2300102: Cylinder032
+    2300104: Cylinder033
+    2300106: Cylinder036
+    2300108: Cylinder041
+    2300110: Cylinder042
+    2300112: Cylinder043
+    2300114: Cylinder044
+    2300116: Line002
+    2300118: Object001
+    2300120: Object001 1
+    2300122: Object001 2
+    2300124: Object002
+    2300126: Object002 1
+    2300128: Object003
+    2300130: Object003 1
+    2300132: Object003 3
+    2300134: Object004
+    2300136: Object004 1
+    2300138: Object005
+    2300140: Object005 1
+    2300142: Object006
+    2300144: Object007
+    2300146: Object008
+    2300148: Object009
+    2300150: Object010
+    2300152: Object011
+    2300154: Object012
+    2300156: Object013
+    2300158: Object014
+    2300160: Object015
+    2300162: Object016
+    2300164: Object017
+    2300166: Object018
+    2300168: Object018 1
+    2300170: Object019
+    2300172: Object020
+    2300174: Object020 1
+    2300176: Object023
+    2300178: Object025
+    2300180: Object027
+    2300182: Object029
+    2300184: Object030
+    2300186: Object039
+    2300188: Object043
+    2300190: Object045
+    2300192: Object046
+    2300194: Object048
+    2300196: Object051
+    2300198: Object056
+    2300200: Object060
+    2300202: Object061
+    2300204: Object062
+    2300206: Object063
+    2300208: Object064
+    2300210: Object065
+    2300212: Object066
+    2300214: Object067
+    2300216: Object068
+    2300218: Object074
+    2300220: Object077
+    2300222: Object078
+    2300224: Object079
+    2300226: Object080
+    2300228: Object081
+    2300230: Object084
+    2300232: Object085
+    2300234: Object092
+    2300236: Object097
+    2300238: Object098
+    2300240: Object099
+    2300242: Object100
+    2300244: Object101
+    2300246: Object102
+    2300248: Object103
+    2300250: Object104
+    2300252: Object105
+    2300254: Object106
+    2300256: Object107
+    2300258: Object108
+    2300260: Object109
+    2300262: Object110
+    2300264: Object111
+    2300266: Object112
+    3300000: Box001
+    3300002: Box001 1
+    3300004: Box001 2
+    3300006: Box002 2
+    3300008: Box003
+    3300010: Box004
+    3300012: Box004 1
+    3300014: Box005
+    3300016: Box005 1
+    3300018: Box007
+    3300020: Box009
+    3300022: Box010
+    3300024: Box011
+    3300026: Box012
+    3300028: Box014
+    3300030: Box015
+    3300032: Box015 1
+    3300034: Box016
+    3300036: Box017
+    3300038: Box020
+    3300040: Box020 1
+    3300042: Box021
+    3300044: Box022
+    3300046: Box023
+    3300048: Box024
+    3300050: Box025
+    3300052: Box026
+    3300054: Box027
+    3300056: Box028
+    3300058: Cylinder001
+    3300060: Cylinder001 1
+    3300062: Cylinder001 2
+    3300064: Cylinder001 3
+    3300066: Cylinder002
+    3300068: Cylinder002 1
+    3300070: Cylinder003
+    3300072: Cylinder003 1
+    3300074: Cylinder004
+    3300076: Cylinder005
+    3300078: Cylinder012
+    3300080: Cylinder013
+    3300082: Cylinder017
+    3300084: Cylinder022
+    3300086: Cylinder023
+    3300088: Cylinder024
+    3300090: Cylinder025
+    3300092: Cylinder026
+    3300094: Cylinder027
+    3300096: Cylinder029
+    3300098: Cylinder030
+    3300100: Cylinder031
+    3300102: Cylinder032
+    3300104: Cylinder033
+    3300106: Cylinder036
+    3300108: Cylinder041
+    3300110: Cylinder042
+    3300112: Cylinder043
+    3300114: Cylinder044
+    3300116: Line002
+    3300118: Object001
+    3300120: Object001 1
+    3300122: Object001 2
+    3300124: Object002
+    3300126: Object002 1
+    3300128: Object003
+    3300130: Object003 1
+    3300132: Object003 3
+    3300134: Object004
+    3300136: Object004 1
+    3300138: Object005
+    3300140: Object005 1
+    3300142: Object006
+    3300144: Object007
+    3300146: Object008
+    3300148: Object009
+    3300150: Object010
+    3300152: Object011
+    3300154: Object012
+    3300156: Object013
+    3300158: Object014
+    3300160: Object015
+    3300162: Object016
+    3300164: Object017
+    3300166: Object018
+    3300168: Object018 1
+    3300170: Object019
+    3300172: Object020
+    3300174: Object020 1
+    3300176: Object023
+    3300178: Object025
+    3300180: Object027
+    3300182: Object029
+    3300184: Object030
+    3300186: Object039
+    3300188: Object043
+    3300190: Object045
+    3300192: Object046
+    3300194: Object048
+    3300196: Object051
+    3300198: Object056
+    3300200: Object060
+    3300202: Object061
+    3300204: Object062
+    3300206: Object063
+    3300208: Object064
+    3300210: Object065
+    3300212: Object066
+    3300214: Object067
+    3300216: Object068
+    3300218: Object074
+    3300220: Object077
+    3300222: Object078
+    3300224: Object079
+    3300226: Object080
+    3300228: Object081
+    3300230: Object084
+    3300232: Object085
+    3300234: Object092
+    3300236: Object097
+    3300238: Object098
+    3300240: Object099
+    3300242: Object100
+    3300244: Object101
+    3300246: Object102
+    3300248: Object103
+    3300250: Object104
+    3300252: Object105
+    3300254: Object106
+    3300256: Object107
+    3300258: Object108
+    3300260: Object109
+    3300262: Object110
+    3300264: Object111
+    3300266: Object112
+    4300000: Box002
+    4300002: Object003
+    4300004: Object005
+    4300006: Object006
+    4300008: Object007
+    4300010: Object008
+    4300012: Object009
+    4300014: Box004
+    4300016: Object003
+    4300018: Box005
+    4300020: Box017
+    4300022: Cylinder001
+    4300024: Cylinder001
+    4300026: Cylinder002
+    4300028: Cylinder003
+    4300030: Box001
+    4300032: Object001
+    4300034: Cylinder001
+    4300036: Box001
+    4300038: Object001
+    4300040: Object002
+    4300042: Box003
+    4300044: Box015
+    4300046: Box020
+    4300048: Object004
+    4300050: Object005
+    4300052: Object014
+    4300054: Object017
+    4300056: Object018
+    4300058: Object019
+    4300060: Object020
+    4300062: Box001
+    4300064: Box004
+    4300066: Object001
+    4300068: Cylinder001
+    4300070: Cylinder002
+    4300072: Object002
+    4300074: Object003
+    4300076: Cylinder003
+    4300078: Cylinder004
+    4300080: Cylinder005
+    4300082: Box005
+    4300084: Cylinder012
+    4300086: Cylinder013
+    4300088: Box007
+    4300090: Object004
+    4300092: Cylinder017
+    4300094: Box009
+    4300096: Box010
+    4300098: Box011
+    4300100: Object010
+    4300102: Object011
+    4300104: Object012
+    4300106: Cylinder022
+    4300108: Object013
+    4300110: Box012
+    4300112: Cylinder023
+    4300114: Cylinder024
+    4300116: Cylinder025
+    4300118: Cylinder026
+    4300120: Cylinder027
+    4300122: Box014
+    4300124: Box015
+    4300126: Object015
+    4300128: Object016
+    4300130: Object018
+    4300132: Object020
+    4300134: Object023
+    4300136: Object025
+    4300138: Object027
+    4300140: Object029
+    4300142: Box016
+    4300144: Object030
+    4300146: Object039
+    4300148: Object043
+    4300150: Box020
+    4300152: Cylinder029
+    4300154: Cylinder030
+    4300156: Cylinder031
+    4300158: Cylinder032
+    4300160: Box021
+    4300162: Box022
+    4300164: Box023
+    4300166: Cylinder033
+    4300168: Box024
+    4300170: Box025
+    4300172: Object045
+    4300174: Box026
+    4300176: Object046
+    4300178: Object048
+    4300180: Cylinder036
+    4300182: Object051
+    4300184: Cylinder041
+    4300186: Object056
+    4300188: Object060
+    4300190: Object061
+    4300192: Object062
+    4300194: Object063
+    4300196: Object064
+    4300198: Object065
+    4300200: Object066
+    4300202: Object067
+    4300204: Object068
+    4300206: Box027
+    4300208: Object074
+    4300210: Cylinder042
+    4300212: Cylinder043
+    4300214: Cylinder044
+    4300216: Object077
+    4300218: Object078
+    4300220: Object079
+    4300222: Object080
+    4300224: Object081
+    4300226: Line002
+    4300228: Object084
+    4300230: Object085
+    4300232: Object092
+    4300234: Object097
+    4300236: Object098
+    4300238: Object099
+    4300240: Object100
+    4300242: Object101
+    4300244: Object102
+    4300246: Object103
+    4300248: Object104
+    4300250: Object105
+    4300252: Object106
+    4300254: Object107
+    4300256: Object108
+    4300258: Object109
+    4300260: Object110
+    4300262: Object111
+    4300264: Object112
+    4300266: Box028
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

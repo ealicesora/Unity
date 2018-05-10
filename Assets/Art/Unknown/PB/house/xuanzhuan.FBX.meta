@@ -1,0 +1,469 @@
+fileFormatVersion: 2
+guid: 39066b2f92afb3640a1d6e4a23d1c67f
+timeCreated: 1512644787
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box081
+    100002: Box157
+    100004: Box158
+    100006: Box159
+    100008: Box160
+    100010: Box161
+    100012: Box162
+    100014: Box163
+    100016: Box164
+    100018: Box165
+    100020: Box166
+    100022: Box167
+    100024: Box168
+    100026: Box169
+    100028: Box170
+    100030: Box171
+    100032: Box172
+    100034: Box173
+    100036: Box174
+    100038: Box175
+    100040: Box176
+    100042: Box177
+    100044: Box178
+    100046: Box179
+    100048: Box180
+    100050: Box181
+    100052: Box182
+    100054: Box183
+    100056: Box184
+    100058: Box185
+    100060: Box186
+    100062: Box187
+    100064: Box188
+    100066: Box189
+    100068: Box190
+    100070: Box191
+    100072: Box192
+    100074: Box193
+    100076: Box194
+    100078: Box195
+    100080: Box196
+    100082: Box197
+    100084: Box198
+    100086: Box199
+    100088: Box200
+    100090: Box201
+    100092: Cone001
+    100094: Cone003
+    100096: Object002
+    100098: Object004
+    100100: Object005
+    100102: Sphere001
+    100104: //RootNode
+    400000: Box081
+    400002: Box157
+    400004: Box158
+    400006: Box159
+    400008: Box160
+    400010: Box161
+    400012: Box162
+    400014: Box163
+    400016: Box164
+    400018: Box165
+    400020: Box166
+    400022: Box167
+    400024: Box168
+    400026: Box169
+    400028: Box170
+    400030: Box171
+    400032: Box172
+    400034: Box173
+    400036: Box174
+    400038: Box175
+    400040: Box176
+    400042: Box177
+    400044: Box178
+    400046: Box179
+    400048: Box180
+    400050: Box181
+    400052: Box182
+    400054: Box183
+    400056: Box184
+    400058: Box185
+    400060: Box186
+    400062: Box187
+    400064: Box188
+    400066: Box189
+    400068: Box190
+    400070: Box191
+    400072: Box192
+    400074: Box193
+    400076: Box194
+    400078: Box195
+    400080: Box196
+    400082: Box197
+    400084: Box198
+    400086: Box199
+    400088: Box200
+    400090: Box201
+    400092: Cone001
+    400094: Cone003
+    400096: Object002
+    400098: Object004
+    400100: Object005
+    400102: Sphere001
+    400104: //RootNode
+    2300000: Box081
+    2300002: Box157
+    2300004: Box158
+    2300006: Box159
+    2300008: Box160
+    2300010: Box161
+    2300012: Box162
+    2300014: Box163
+    2300016: Box164
+    2300018: Box165
+    2300020: Box166
+    2300022: Box167
+    2300024: Box168
+    2300026: Box169
+    2300028: Box170
+    2300030: Box171
+    2300032: Box172
+    2300034: Box173
+    2300036: Box174
+    2300038: Box175
+    2300040: Box176
+    2300042: Box177
+    2300044: Box178
+    2300046: Box179
+    2300048: Box180
+    2300050: Box181
+    2300052: Box182
+    2300054: Box183
+    2300056: Box184
+    2300058: Box185
+    2300060: Box186
+    2300062: Box187
+    2300064: Box188
+    2300066: Box189
+    2300068: Box190
+    2300070: Box191
+    2300072: Box192
+    2300074: Box193
+    2300076: Box194
+    2300078: Box195
+    2300080: Box196
+    2300082: Box197
+    2300084: Box198
+    2300086: Box199
+    2300088: Box200
+    2300090: Box201
+    2300092: Object002
+    2300094: Object004
+    2300096: Object005
+    2300098: Sphere001
+    3300000: Box081
+    3300002: Box157
+    3300004: Box158
+    3300006: Box159
+    3300008: Box160
+    3300010: Box161
+    3300012: Box162
+    3300014: Box163
+    3300016: Box164
+    3300018: Box165
+    3300020: Box166
+    3300022: Box167
+    3300024: Box168
+    3300026: Box169
+    3300028: Box170
+    3300030: Box171
+    3300032: Box172
+    3300034: Box173
+    3300036: Box174
+    3300038: Box175
+    3300040: Box176
+    3300042: Box177
+    3300044: Box178
+    3300046: Box179
+    3300048: Box180
+    3300050: Box181
+    3300052: Box182
+    3300054: Box183
+    3300056: Box184
+    3300058: Box185
+    3300060: Box186
+    3300062: Box187
+    3300064: Box188
+    3300066: Box189
+    3300068: Box190
+    3300070: Box191
+    3300072: Box192
+    3300074: Box193
+    3300076: Box194
+    3300078: Box195
+    3300080: Box196
+    3300082: Box197
+    3300084: Box198
+    3300086: Box199
+    3300088: Box200
+    3300090: Box201
+    3300092: Object002
+    3300094: Object004
+    3300096: Object005
+    3300098: Sphere001
+    4300000: Object002
+    4300002: Box081
+    4300004: Box157
+    4300006: Box158
+    4300008: Box159
+    4300010: Box160
+    4300012: Box161
+    4300014: Object004
+    4300016: Box162
+    4300018: Box163
+    4300020: Object005
+    4300022: Box164
+    4300024: Box165
+    4300026: Box166
+    4300028: Sphere001
+    4300030: Box167
+    4300032: Box168
+    4300034: Box169
+    4300036: Box170
+    4300038: Box171
+    4300040: Box172
+    4300042: Box173
+    4300044: Box174
+    4300046: Box175
+    4300048: Box176
+    4300050: Box177
+    4300052: Box178
+    4300054: Box179
+    4300056: Box180
+    4300058: Box181
+    4300060: Box182
+    4300062: Box183
+    4300064: Box184
+    4300066: Box185
+    4300068: Box186
+    4300070: Box187
+    4300072: Box188
+    4300074: Box189
+    4300076: Box190
+    4300078: Box191
+    4300080: Box192
+    4300082: Box193
+    4300084: Box194
+    4300086: Box195
+    4300088: Box196
+    4300090: Box197
+    4300092: Box198
+    4300094: Box199
+    4300096: Box200
+    4300098: Box201
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box081
+        weight: 1
+      - path: Box157
+        weight: 1
+      - path: Box158
+        weight: 1
+      - path: Box159
+        weight: 1
+      - path: Box160
+        weight: 1
+      - path: Box161
+        weight: 1
+      - path: Box162
+        weight: 1
+      - path: Box163
+        weight: 1
+      - path: Box164
+        weight: 1
+      - path: Box165
+        weight: 1
+      - path: Box166
+        weight: 1
+      - path: Box167
+        weight: 1
+      - path: Box168
+        weight: 1
+      - path: Box169
+        weight: 1
+      - path: Box170
+        weight: 1
+      - path: Box171
+        weight: 1
+      - path: Box172
+        weight: 1
+      - path: Box173
+        weight: 1
+      - path: Box174
+        weight: 1
+      - path: Box175
+        weight: 1
+      - path: Box176
+        weight: 1
+      - path: Box177
+        weight: 1
+      - path: Box178
+        weight: 1
+      - path: Box179
+        weight: 1
+      - path: Box180
+        weight: 1
+      - path: Box181
+        weight: 1
+      - path: Box182
+        weight: 1
+      - path: Box183
+        weight: 1
+      - path: Box184
+        weight: 1
+      - path: Box185
+        weight: 1
+      - path: Box186
+        weight: 1
+      - path: Box187
+        weight: 1
+      - path: Box188
+        weight: 1
+      - path: Box189
+        weight: 1
+      - path: Box190
+        weight: 1
+      - path: Box191
+        weight: 1
+      - path: Box192
+        weight: 1
+      - path: Box193
+        weight: 1
+      - path: Box194
+        weight: 1
+      - path: Box195
+        weight: 1
+      - path: Box196
+        weight: 1
+      - path: Box197
+        weight: 1
+      - path: Box198
+        weight: 1
+      - path: Box199
+        weight: 1
+      - path: Box200
+        weight: 1
+      - path: Box201
+        weight: 1
+      - path: Cone001
+        weight: 1
+      - path: Cone003
+        weight: 1
+      - path: Object002
+        weight: 1
+      - path: Object004
+        weight: 1
+      - path: Object005
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
